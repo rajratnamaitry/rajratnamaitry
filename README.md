@@ -58,6 +58,7 @@ Node.js examples and experiments — Express, file handling, REST APIs, and more
 
 ### ⚛️ [React Learn](https://github.com/rajratnamaitry/react-learn)  
 Hands-on learning repo with React concepts like hooks, routing, and state management.
+🌐 [Live Demo](https://rajratnamaitry.github.io/react-learn/)
 
 ### 🎮 [React Games](https://github.com/rajratnamaitry/react-games?tab=readme-ov-file)  
 Fun browser-based games built using React — great for learning UI interaction.
