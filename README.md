@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a software developer with over 10 years of exp
 Below are some of my open-source projects, VS Code extensions, and technical articles — feel free to explore, use, or contribute!
 
 ---
-
 ## 🧩 VS Code Extensions
 
 ### 🚀 [Run Project](https://github.com/rajratnamaitry/vs-code-ext-run-project)  
@@ -21,31 +20,18 @@ Adds a right-click option to open any folder in a new VS Code window.
 🔗 [Marketplace Link](https://marketplace.visualstudio.com/items?itemName=rajratnamaitry.open-folder-in-new-vscode)
 
 ---
-
-## 🛠️ NPM Library Featured Projects
+## 🛠️ NPM package
 
 ### 🧱 [Gridster Item Extend](https://github.com/rajratnamaitry/gridster-item-extend)  
-An Angular-based extension for `angular-gridster2` allowing **dynamic resizing and advanced layout controls** of gridster items.
+An Angular-based extension for `angular-gridster2` allowing **dynamic resizing and advanced layout controls** of gridster items.  
+🔗 [npm Package](https://www.npmjs.com/package/gridster-item-extend)
 
 ### 💬 [MatCustomTooltip](https://github.com/rajratnamaitry/MatCustomTooltip)  
 Angular Material extension to **customize tooltips with HTML and styles**, while preserving default accessibility and behavior.  
-🔗 [Related article](https://rajratnamaitry.medium.com/customizing-angular-material-the-right-way-to-extend-tooltips-without-losing-functionality-1776af691414)
+🔗 [Medium Article](https://rajratnamaitry.medium.com/customizing-angular-material-the-right-way-to-extend-tooltips-without-losing-functionality-1776af691414)  
+🌐 [Live Demo](https://rajratnamaitry.github.io/cust-mat-tooltip-project/)
 
 ---
-
-## 📚 Learning Repos
-
-### 🌐 [Node.js Learn](https://github.com/rajratnamaitry/nodejs-learn)  
-Node.js examples and experiments — Express, file handling, REST APIs, and more.
-
-### ⚛️ [React Learn](https://github.com/rajratnamaitry/react-learn)  
-Hands-on learning repo with React concepts like hooks, routing, and state management.
-
-### 🎮 [React Games](https://github.com/rajratnamaitry/react-games?tab=readme-ov-file)  
-Fun browser-based games built using React — great for learning UI interaction.
-
----
-
 ## 📝 Articles
 
 ### 💡 [Customizing Angular Material Tooltips](https://rajratnamaitry.medium.com/customizing-angular-material-the-right-way-to-extend-tooltips-without-losing-functionality-1776af691414)  
@@ -63,6 +49,23 @@ Learn how to debug production Angular builds **without relying on source maps**,
 ### 🧪 [Advanced Cypress Setup](https://rajratnamaitry.medium.com/advanced-cypress-setup-9ef0c6483fc8)  
 Configure Cypress for large-scale projects: file structure, mocking, authentication handling, and reusable patterns.
 
+---
+## 📚 Learning Repos
+
+### 🌐 [Node.js Learn](https://github.com/rajratnamaitry/nodejs-learn)  
+Node.js examples and experiments — Express, file handling, REST APIs, and more.
+
+### ⚛️ [React Learn](https://github.com/rajratnamaitry/react-learn)  
+Hands-on learning repo with React concepts like hooks, routing, and state management.
+
+### 🎮 [React Games](https://github.com/rajratnamaitry/react-games?tab=readme-ov-file)  
+Fun browser-based games built using React — great for learning UI interaction.
+
+### 🧠 [JavaScript Algorithms & Data Structures](https://github.com/rajratnamaitry/Javascript-Algo-DS)  
+Collection of common algorithms and data structures implemented in JavaScript — ideal for interview prep and coding practice.
+
+### 🔤 [Wordle Clone in Angular](https://github.com/rajratnamaitry/wordleAngularV13)  
+A fully functional clone of the Wordle game built with Angular 13 — great for learning component interaction and game logic in Angular.
 ---
 
 ## 🤝 Let’s Connect
