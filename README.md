@@ -62,6 +62,7 @@ Hands-on learning repo with React concepts like hooks, routing, and state manage
 
 ### 🎮 [React Games](https://github.com/rajratnamaitry/react-games?tab=readme-ov-file)  
 Fun browser-based games built using React — great for learning UI interaction.
+🌐 [Live Demo](https://reactgames-39aeb.firebaseapp.com/)
 
 ### 🧠 [JavaScript Algorithms & Data Structures](https://github.com/rajratnamaitry/Javascript-Algo-DS)  
 Collection of common algorithms and data structures implemented in JavaScript — ideal for interview prep and coding practice.
